@@ -3,5 +3,6 @@ public class svntest {
         System.out.println("hello word");
         System.out.println("hello word");
         System.out.println("hello word3");
+        System.out.println("hello word3");
     }
 }
